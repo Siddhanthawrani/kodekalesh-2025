@@ -27,3 +27,6 @@ This solution combines Unity’s flexibility with Firebase’s scalability and A
 📽️ Demo Video
 https://drive.google.com/drive/folders/19b_1oucf-NDU-9XKqb_yZUb3eoPUriZw?usp=drive_link
 
+
+**Build files are not uploaded because they contain private API keys. The demo video and scripts demonstrate full functionality.**
+
